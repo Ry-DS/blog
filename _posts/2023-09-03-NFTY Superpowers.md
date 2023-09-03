@@ -1,0 +1,2 @@
+- Wrote a script to alert when a computer finishes starting up from WOL using NTFY
+- Another script also sends NTFY alerts when sustained network activity occurs
