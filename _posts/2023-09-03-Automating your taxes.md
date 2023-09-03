@@ -1,0 +1,2 @@
+- Wrote a script which reads your Windows event log and finds the days you worked from home
+- Useful to report your WFH hours as you can claim them in your tax return.
