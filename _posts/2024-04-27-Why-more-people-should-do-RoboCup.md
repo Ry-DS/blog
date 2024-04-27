@@ -1,0 +1,3 @@
+When I was a wee 2nd year at RMIT, we were required to submit our applications for our final year capstone. RMIT has a pretty good capstone program, a good portion of projects are real projects offered by outside businesses who are happy to have a bunch of new students build something for them.
+
+Some however are also part of RMIT, submitted by either PHD students or lecturers looking to build something to assist their work or the university. One of them was RoboCup.
